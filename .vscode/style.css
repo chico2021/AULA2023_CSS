@@ -1,0 +1,34 @@
+p {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-transform: capitalize;
+    /*dexa cada começo de palavra maiúscula
+    UPPERCASE/LOWERCASE - TUDO MAIÚSCULA OU MINÚSCULA
+    */
+    text-shadow: 35px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    background-color: black;
+    letter-spacing: 5px;
+}
+
+#ret1 {
+    color: green;
+}
+
+.center {
+    color: red;
+    background-color: cyan;
+}
+
+p.center {
+    color: blueviolet;
+}
+
+p.large {
+    font-size: 60px;
+}
